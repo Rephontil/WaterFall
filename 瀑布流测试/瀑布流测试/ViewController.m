@@ -16,7 +16,7 @@
 @implementation ViewController
 
 //重用标志
-static  NSString * const reuseIdentifier = @"waterPourCell";
+static  NSString * const reuseIdentifier = @"waterFallCell";
 
 - (void)viewDidLoad
 {
